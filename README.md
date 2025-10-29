@@ -22,7 +22,11 @@ Bu metrik, bir üyenin tek bir anda ulaştığı en yüksek kalp atış hızın�
 
 1. Demografik Bulgular (Yaş ve Kilo) : Yüksek yoğunluk riskini gösteren kırmızı noktalar, Yaş ve Kilo düzlemine göreceli olarak homojen dağılmıştır. Bu durum, aşırı yoğunluk riskinin spesifik bir demografik profile değil, daha çok bireyin antrenman kararlarına ve fizyolojik durumuna bağlı olduğunu göstermektedir. Ancak, genç yaş gruplarında veya ekstrem kilo gruplarında kalbi zorlama (Teorik Maksimum Üstü) riskinde hafif kümelenmeler gözlemlenmiştir.
 
-2. Antrenman Alışkanlıkları Bulguları :
+![Yaş ve Kilo Saçılım Grafiği](Unknown-1.png)
+
+3. Antrenman Alışkanlıkları Bulguları :
 
 - Yüksek Yoğunluk Riski: HIIT ve Cardio antrenman tiplerinde, özellikle haftada 3 ve 4 gün sıklıkta, risk oranı belirgin şekilde yükselmiştir. Bu, bu aktivitelerin doğası gereği yüksek stres seviyesi yarattığını doğrulamaktadır.
 - Düşük Riskli Alanlar: Yoga antrenmanları ve haftada 2 gün gibi seyrek sıklıklar, her iki risk metriğinde de en düşük oranlara sahiptir.
+
+![Antrenman Isı Haritası](Unknown.png)
